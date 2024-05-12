@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot]([![IMG-20240511-WA0001.jpg](https://i.postimg.cc/xjyszvBc/IMG-20240511-WA0001.jpg)](https://postimg.cc/t7Jt0xqj))
+![app image](https://github.com/htssp/lambda/assets/169592356/1ab33f1c-8733-4870-80d1-0b73b854c931)
 
 
 # TRAVEL DESTINATION GUIDE
